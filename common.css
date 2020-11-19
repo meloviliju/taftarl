@@ -1,0 +1,59 @@
+<!--
+
+@media screen and (min-width:1024px){
+    body{
+        width: 1024px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width:1023px){
+    body{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width:480px){
+    body{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    text-align: center;
+    width: 60px;
+    padding: 4px;
+}
+
+td{
+    text-align: center; 
+    width: 60px; 
+    padding: 4px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.has_line{
+    text-decoration: underline;
+}
+
+.bordR{
+    border-right: 1px solid black;
+}
+
+.wide{
+    width: auto;
+}
+
+-->
