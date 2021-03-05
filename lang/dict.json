@@ -1,0 +1,48 @@
+{
+    "words" : [ {
+        "entry" : {
+            "id" : 1,
+            "form" : "rhosh"
+        },
+        "translations" : [ {
+            "title" : "動詞",
+            "forms" : [ "～である、存在する、〈処 が 主 を〉持つ" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-a/-i/-e" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "同根語", 
+            "text" : "ghosh.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 2,
+            "form" : "taftarl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "高原" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 3,
+            "form" : "forl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "太陽、日" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }]
+}
