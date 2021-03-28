@@ -109,17 +109,17 @@
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "文法",
+            "title" : "文法的事項",
             "text" : "この語を修飾する形容詞は、通常-inを語尾に要求される。"
         }, {
             "title" : "例文",
             "text" : "norlc cotuin rarlnin ghoshma.　彼は赤い目を持っている。"
-        } ],
-        "variations" : [ ],
-        "relations" : [ {
+        }, {
             "title" : "同根語", 
             "text" : "tur.gha"
-        } ]
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
     }, {
         "entry" : {
             "id" : 8,
@@ -130,12 +130,12 @@
             "forms" : [ "彼、彼女" ]
         } ],
         "tags" : [ ],
-        "contents" : [ ],
-        "variations" : [ ],
-        "relations" : [ {
+        "contents" : [ {
             "title" : "同根語", 
             "text" : "lue.xok"
-        } ]
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
     }, {
         "entry" : {
             "id" : 9,
@@ -149,12 +149,12 @@
         "contents" : [ {
             "title" : "例文",
             "text" : ""
-        } ],
-        "variations" : [ ],
-        "relations" : [ {
+        }, {
             "title" : "同根語", 
             "text" : "shükhət.gha"
-        } ]
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
     }, {
         "entry" : {
             "id" : 10,
@@ -169,13 +169,10 @@
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "例文",
-            "text" : "barlnan "
-        } ],
-        "variations" : [ ],
-        "relations" : [ {
             "title" : "同根語", 
             "text" : "khesh.gha"
-        } ]
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
     } ]
 }
