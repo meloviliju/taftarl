@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>塔和辞書</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+    <link rel="stylesheet" href="./dict.css"/>
+    <script src="./generate_dict.js"></script>
+</head>
+<body onload="fetch('https:/'+'/schwert398.github.io/taftarl/lang/dict.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){render(dictionnaire)})">
+    <div class="outermost" >
+        <div style="text-align: center; padding: 0 0 40px 0">
+            <h1>塔和辞書</h1><br>
+            <a href="dict.html">標準的ソート</a> <a href="dict.html?sortBy=ascii">ASCII順ソート</a> <a href="dict.html?sortBy=id">ID順ソート</a>
+        </div>
+        <div class="outer" id="outer">
+            ロード中………<br>
+            <span style="font-size: 80%;">（いつまでもこの表示が切り替わらない場合、https://schwert398.github.com/taftarl/lang/dict.json に何らかの理由でアクセスができないかなんか。）（fetchでJSON読んでるからCORSの関係でローカルでは動かない、と思ったが動く。）</span>
+        </div>
+    </div>
+</body>
+</html>

@@ -9,7 +9,7 @@
             "forms" : [ "～である、存在する、〈処 が 主 を〉持つ" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-a/-i/-e" ]
+            "forms" : [ "-a/-e/-i" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
@@ -38,11 +38,144 @@
         },
         "translations" : [ {
             "title" : "名詞",
-            "forms" : [ "太陽、日" ]
+            "forms" : [ "太陽" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "同根語", 
+            "text" : "för.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 4,
+            "form" : "cot"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "赤い" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-o/-u/-y" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "同根語", 
+            "text" : "țökhət.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 5,
+            "form" : "barl"
+        },
+        "translations" : [ {
+            "title" : "代名詞",
+            "forms" : [ "私" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "同根語", 
+            "text" : "bar.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 6,
+            "form" : "fenkhyc"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "フェンキュツ" ]
+        } ],
+        "tags" : [ "生物" ],
+        "contents" : [ {
+            "title" : "文化", 
+            "text" : "タフターで神々の遣いとみなされるライチョウの仲間。鮮やかな青い脚を持ち、夏は褐色、冬は真っ白な羽毛に生え換わる。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 7,
+            "form" : "turl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "目" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "文法",
+            "text" : "この語を修飾する形容詞は、通常-inを語尾に要求される。"
+        }, {
+            "title" : "例文",
+            "text" : "norlc cotuin rarlnin ghoshma.　彼は赤い目を持っている。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title" : "同根語", 
+            "text" : "tur.gha"
+        } ]
+    }, {
+        "entry" : {
+            "id" : 8,
+            "form" : "norl"
+        },
+        "translations" : [ {
+            "title" : "代名詞",
+            "forms" : [ "彼、彼女" ]
         } ],
         "tags" : [ ],
         "contents" : [ ],
         "variations" : [ ],
-        "relations" : [ ]
-    }]
+        "relations" : [ {
+            "title" : "同根語", 
+            "text" : "lue.xok"
+        } ]
+    }, {
+        "entry" : {
+            "id" : 9,
+            "form" : "shyt"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "良い" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文",
+            "text" : ""
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title" : "同根語", 
+            "text" : "shükhət.gha"
+        } ]
+    }, {
+        "entry" : {
+            "id" : 10,
+            "form" : "xesh"
+        },
+        "translations" : [ {
+            "title" : "動詞",
+            "forms" : [ "生きる、住む、〈与 として〉暮らす" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-o/-y/-u" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文",
+            "text" : "barlnan "
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title" : "同根語", 
+            "text" : "khesh.gha"
+        } ]
+    } ]
 }
