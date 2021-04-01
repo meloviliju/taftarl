@@ -6,7 +6,7 @@
         },
         "translations" : [ {
             "title" : "動詞",
-            "forms" : [ "～である、存在する、〈処 が 主 を〉持つ" ]
+            "forms" : [ "～である", "存在する", "〈処 が 主 を〉持つ" ]
         }, {
             "title" : "活用",
             "forms" : [ "-a/-e/-i" ]
@@ -113,7 +113,7 @@
             "text" : "この語を修飾する形容詞は、通常-inを語尾に要求される。"
         }, {
             "title" : "例文",
-            "text" : "norlc cotuin rarlnin ghoshma.　彼は赤い目を持っている。"
+            "text" : "norls cotuin rarlnin ghoshma.　彼は赤い目を持っている。"
         }, {
             "title" : "同根語", 
             "text" : "tur.gha"
@@ -127,7 +127,7 @@
         },
         "translations" : [ {
             "title" : "代名詞",
-            "forms" : [ "彼、彼女" ]
+            "forms" : [ "彼", "彼女" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
@@ -144,6 +144,9 @@
         "translations" : [ {
             "title" : "形容詞",
             "forms" : [ "良い" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-o/-u/-y" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
@@ -162,7 +165,7 @@
         },
         "translations" : [ {
             "title" : "動詞",
-            "forms" : [ "生きる、住む、〈与 として〉暮らす" ]
+            "forms" : [ "生きる", "住む", "〈与 として〉暮らす" ]
         }, {
             "title" : "活用",
             "forms" : [ "-o/-u/-y" ]
@@ -171,6 +174,219 @@
         "contents" : [ {
             "title" : "同根語", 
             "text" : "khesh.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 11,
+            "form" : "siborl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "時間", "時" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "備考", 
+            "text" : "概念としての「流れる時間」が本義。瞬間としての時間も表すが、時刻は含まない。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title": "派生語",
+            "entry": {
+                "id": 13,
+                "form": "ratsiborl"
+            }
+        } ]
+    }, {
+        "entry" : {
+            "id" : 12,
+            "form" : "rarl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "何" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "同根語", 
+            "text" : "rar.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 13,
+            "form" : "ratsiborl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "いつ" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "語源", 
+            "text" : "[< ra-t + siborl]"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 14,
+            "form" : "nirl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "人", "ヒト" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用例", 
+            "text" : "民族を表したい時は民族名を伴って属格修飾や連言修飾で表現する。"
+        }, {
+            "title" : "同根語", 
+            "text" : "nir.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 15,
+            "form" : "taftanirl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "タフター人", "タフターニ", "「高原の民」" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "語源", 
+            "text" : "[< tafta-t + nirl]"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 16,
+            "form" : "rhabiyarl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "ラッビヤ" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "備考", 
+            "text" : "ラッビヤ語でラッビヤ(ghabiyar)といえばラッビヤ人やそのコミュニティを指すが、タフタット語ではラッビヤ人たちの住む地域を指す。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 17,
+            "form" : "rhabiyanirl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "ラッビヤ人" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "語源", 
+            "text" : "[< rhabiya-t + nirl]"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 18,
+            "form" : "fijurl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "かけら", "まとまりに満たないもの", "(比喩的に)子供" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 19,
+            "form" : "mat"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "この" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-/mat/-" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "備考", 
+            "text" : "連言形以外の形を欠いている。複数語尾の-inは必要に応じてつく。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 20,
+            "form" : "xokhutirl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "ホーキュティール", "「都」" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "備考", 
+            "text" : "タフターの中央議会や銀行といった首都の置かれている街。和訳の際は固有名詞的に都という訳語が当てられることがある。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 21,
+            "form" : "josh"
+        },
+        "translations" : [ {
+            "title" : "動詞",
+            "forms" : [ "来る", "〈与 へ〉行く" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-a/-e/-i" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "備考",
+            "text" : "向きには関わらず、移動全般を表す。"
+        }, {
+            "title" : "同根語", 
+            "text" : "josh.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 22,
+            "form" : "-(a)k"
+        },
+        "translations" : [ {
+            "title" : "助辞",
+            "forms" : [ "～ない" ]
+        }, {
+            "title" : "接続",
+            "forms" : [ "終止形" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "備考",
+            "text" : "否定したい部分の直後につける。"
+        }, {
+            "title" : "同根語", 
+            "text" : "-(ə)k.gha"
         } ],
         "variations" : [ ],
         "relations" : [ ]
