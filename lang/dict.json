@@ -279,15 +279,15 @@
         "contents" : [ {
             "title" : "文化", 
             "text" : "ラッビヤ語でラッビヤ(ghabiyar)といえばラッビヤ人やそのコミュニティを指すが、タフタット語ではラッビヤ人たちの住む地域を指す。"
-        } ],
-        "variations" : [ ],
-        "relations" : [ {
+        }, {
             "title" : "用法", 
             "text" : "ラッビヤ語からの借用。"
         }, {
             "title" : "同根語", 
             "text" : "ghabiyar.gha"
-        } ]
+        }  ],
+        "variations" : [ ],
+        "relations" : [ ]
     }, {
         "entry" : {
             "id" : 17,
@@ -314,12 +314,12 @@
             "forms" : [ "かけら", "まとまりに満たないもの", "(比喩的に)子供" ]
         } ],
         "tags" : [ ],
-        "contents" : [ ],
-        "variations" : [ ],
-        "relations" : [ {
+        "contents" : [ {
             "title" : "語源", 
             "text" : "fijur.gha"
-        } ]
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
     }, {
         "entry" : {
             "id" : 19,
@@ -450,10 +450,7 @@
             "forms" : [ "接続形" ]
         } ],
         "tags" : [ ],
-        "contents" : [ {
-            "title" : "用法", 
-            "text" : ""
-        } ],
+        "contents" : [ ],
         "variations" : [ ],
         "relations" : [ ]
     }, {
@@ -471,7 +468,7 @@
         "tags" : [ ],
         "contents" : [ {
             "title" : "例文", 
-            "text" : "mady barlnan xokhutirls rhoshnak.　今日私は都にいない。<br>"
+            "text" : "mady barlnan xokhutirls rhoshnak.　今日私は都にいない。"
         }, {
             "title" : "用法", 
             "text" : "連言形以外を欠く。古語の-x語尾による形容詞生成の名残。"
@@ -585,5 +582,99 @@
         } ],
         "variations" : [ ],
         "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 32,
+            "form" : "darl"
+        },
+        "translations" : [ {
+            "title" : "代名詞",
+            "forms" : [ "きみ", "あなた" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "norlnin mady joshmivez?　彼らは今日来られるか？"
+        }, {
+            "title" : "用法", 
+            "text" : "敬意や間柄などに関わらず聞き手に対してこれを用いる。"
+        }, {
+            "title" : "同根語", 
+            "text" : "dar.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 33,
+            "form" : "gyt"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "〈処 と〉一緒に", "〈処 を〉使って", "〈処〉で" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "- / gyt / -" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "darlnan gyt barls xeshdyvez?　あなたは私と一緒に暮らせますか？"
+        }, {
+            "title" : "用法", 
+            "text" : "もともとラッビヤ語で具格の後置詞だったgüzを、前置詞(形容詞)化したうえで借用した。形容される名詞は処格となる。"
+        }, {
+            "title" : "同根語", 
+            "text" : "güz.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 34,
+            "form" : "rhar"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "1" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "同根語", 
+            "text" : "ghar.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title": "同根語",
+            "entry": {
+                "id": 35,
+                "form": "gat"
+            }
+        } ]
+    }, {
+        "entry" : {
+            "id" : 35,
+            "form" : "gat"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "同じである" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-a / -e / -i" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : "もともと「1」も「同じ」もrharであったが、「同じ」の発音が変化し分化した。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title": "同根語",
+            "entry": {
+                "id": 34,
+                "form": "rhar"
+            }
+        } ]
     } ]
 }
