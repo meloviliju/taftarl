@@ -17,6 +17,10 @@ h2 {
     margin-top: 24px;
 }
 
+summary {
+    margin: 8px auto;
+}
+
 table {
     border-collapse: collapse;
 }

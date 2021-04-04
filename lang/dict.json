@@ -9,7 +9,7 @@
             "forms" : [ "～である", "存在する", "〈処 が 主 を〉持つ" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-a/-e/-i" ]
+            "forms" : [ "-a / -e / -i" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
@@ -25,7 +25,7 @@
         },
         "translations" : [ {
             "title" : "名詞",
-            "forms" : [ "高原" ]
+            "forms" : [ "高原", "タフター" ]
         } ],
         "tags" : [ ],
         "contents" : [ ],
@@ -57,12 +57,12 @@
             "forms" : [ "赤い" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-o/-u/-y" ]
+            "forms" : [ "-o / -u / -y" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
             "title" : "同根語", 
-            "text" : "țökhət.gha"
+            "text" : "țökh.gha"
         } ],
         "variations" : [ ],
         "relations" : [ ]
@@ -146,7 +146,7 @@
             "forms" : [ "良い" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-o/-u/-y" ]
+            "forms" : [ "-o / -u / -y" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
@@ -168,7 +168,7 @@
             "forms" : [ "生きる", "住む", "〈与 として〉暮らす" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-o/-u/-y" ]
+            "forms" : [ "-o / -u / -y" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
@@ -188,7 +188,7 @@
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "備考", 
+            "title" : "用法", 
             "text" : "概念としての「流れる時間」が本義。瞬間としての時間も表すが、時刻は含まない。"
         } ],
         "variations" : [ ],
@@ -277,11 +277,17 @@
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "備考", 
+            "title" : "文化", 
             "text" : "ラッビヤ語でラッビヤ(ghabiyar)といえばラッビヤ人やそのコミュニティを指すが、タフタット語ではラッビヤ人たちの住む地域を指す。"
         } ],
         "variations" : [ ],
-        "relations" : [ ]
+        "relations" : [ {
+            "title" : "用法", 
+            "text" : "ラッビヤ語からの借用。"
+        }, {
+            "title" : "同根語", 
+            "text" : "ghabiyar.gha"
+        } ]
     }, {
         "entry" : {
             "id" : 17,
@@ -310,7 +316,10 @@
         "tags" : [ ],
         "contents" : [ ],
         "variations" : [ ],
-        "relations" : [ ]
+        "relations" : [ {
+            "title" : "語源", 
+            "text" : "fijur.gha"
+        } ]
     }, {
         "entry" : {
             "id" : 19,
@@ -321,12 +330,12 @@
             "forms" : [ "この" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-/mat/-" ]
+            "forms" : [ "- / mat / -" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "備考", 
-            "text" : "連言形以外の形を欠いている。複数語尾の-inは必要に応じてつく。"
+            "title" : "用法", 
+            "text" : "連言形以外の形を欠いている。"
         } ],
         "variations" : [ ],
         "relations" : [ ]
@@ -341,7 +350,7 @@
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "備考", 
+            "title" : "用法", 
             "text" : "タフターの中央議会や銀行といった首都の置かれている街。和訳の際は固有名詞的に都という訳語が当てられることがある。"
         } ],
         "variations" : [ ],
@@ -356,15 +365,15 @@
             "forms" : [ "来る", "〈与 へ〉行く" ]
         }, {
             "title" : "活用",
-            "forms" : [ "-a/-e/-i" ]
+            "forms" : [ "-a / -e / -i" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "備考",
+            "title" : "用法",
             "text" : "向きには関わらず、移動全般を表す。"
         }, {
             "title" : "同根語", 
-            "text" : "josh.gha"
+            "text" : "yosh.gha"
         } ],
         "variations" : [ ],
         "relations" : [ ]
@@ -382,11 +391,197 @@
         } ],
         "tags" : [ ],
         "contents" : [ {
-            "title" : "備考",
+            "title" : "用法",
             "text" : "否定したい部分の直後につける。"
         }, {
             "title" : "同根語", 
             "text" : "-(ə)k.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 23,
+            "form" : "fyt"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "あの" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "- / fyt / -" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : "連言形以外の形を欠いている。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 24,
+            "form" : "synicarl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "学校" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : "ショクレー語からの借用。"
+        }, {
+            "title" : "同根語", 
+            "text" : "sylitia.xok"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 25,
+            "form" : "-vez"
+        },
+        "translations" : [ {
+            "title" : "助辞",
+            "forms" : [ "～できる" ]
+        }, {
+            "title" : "接続",
+            "forms" : [ "接続形" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : ""
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 26,
+            "form" : "mady"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "今日の", "今日" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "- / mady / -" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "mady barlnan xokhutirls rhoshnak.　今日私は都にいない。<br>"
+        }, {
+            "title" : "用法", 
+            "text" : "連言形以外を欠く。古語の-x語尾による形容詞生成の名残。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 27,
+            "form" : "vurosh"
+        },
+        "translations" : [ {
+            "title" : "動詞",
+            "forms" : [ "刈る", "収穫する" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-o / -u / -y" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : "「大地から引き抜く」が本義。タフターニが農耕を行うようになり意味が分化した。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 28,
+            "form" : "osh"
+        },
+        "translations" : [ {
+            "title" : "動詞",
+            "forms" : [ "言う", "〈与 に 対 を〉伝える" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-a / -e / -i" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : "「口から出す」が本義。"
+        }, {
+            "title" : "同根語", 
+            "text" : "hosh.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 29,
+            "form" : "cyrl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "年", "サイクル" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "用法", 
+            "text" : "本義は暦での一年であったが、派生して時間的なまとまりを指すようになった。"
+        }, {
+            "title" : "同根語", 
+            "text" : "cür.gha"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 30,
+            "form" : "bocot"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "次", "引き続く", "〈属 の〉後に来る" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "-o / -u / -y" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "rarlnan bocoto darlt?　君の後には誰が来るの？"
+        }, {
+            "title" : "用法", 
+            "text" : "「流れゆく」が原義。「次に(また)来る」にはbocotu joshを用いる。"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 31,
+            "form" : "-zen"
+        },
+        "translations" : [ {
+            "title" : "助辞",
+            "forms" : [ "～したい" ]
+        }, {
+            "title" : "接続",
+            "forms" : [ "終止形" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "oshnazen norlgum rarl.　彼に何か言ってやりたい。"
+        }, {
+            "title" : "用法", 
+            "text" : "リパライン語seleneからの借用。"
+        }, {
+            "title" : "同根語", 
+            "text" : "selene.lip"
         } ],
         "variations" : [ ],
         "relations" : [ ]

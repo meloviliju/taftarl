@@ -4,6 +4,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
     <link rel="stylesheet" href="./dict.css"/>
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
     <script src="./generate_dict.js"></script>
 </head>
 <body onload="fetch('https:/'+'/schwert398.github.io/taftarl/lang/dict.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){render(dictionnaire)})">
