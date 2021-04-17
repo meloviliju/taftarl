@@ -15,7 +15,7 @@ const get_word_for_list = (dictionary: Dictionary, id: number, word_class: Wordc
 
     const word_form = `<td>${id}</td><td><a href="./dict.html#${html_element_id}">${word.entry.form}</a></td>`;
     
-    const translations = word_class == "全単語"?`<td class="meaning">${word.translations.map(t => t.forms.join(", ")).join("、")}</td>`:`<td class="meaning">${word.translations.filter(t => t.title == word_class).map(t => t.forms.join(", ")).join("、")}</td>`;
+    const translations = word_class == "全単語"?`<td class="meaning">${word.translations.map(t => t.forms.join(", ")).join("；")}</td>`:`<td class="meaning">${word.translations.filter(t => t.title == word_class).map(t => t.forms.join(", ")).join("、")}</td>`;
     
     return translations == '<td class="meaning"></td>'?"":`<tr>${word_form}${translations}</tr>`;
 }

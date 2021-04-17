@@ -3,7 +3,7 @@ var get_word_for_list = function (dictionary, id, word_class) {
     var word = dictionary.words.filter(function (a) { return a.entry.id === id; })[0];
     var html_element_id = "id" + id + "_" + word.entry.form.split(" ").join("_");
     var word_form = "<td>" + id + "</td><td><a href=\"./dict.html#" + html_element_id + "\">" + word.entry.form + "</a></td>";
-    var translations = word_class == "全単語" ? "<td class=\"meaning\">" + word.translations.map(function (t) { return t.forms.join(", "); }).join("、") + "</td>" : "<td class=\"meaning\">" + word.translations.filter(function (t) { return t.title == word_class; }).map(function (t) { return t.forms.join(", "); }).join("、") + "</td>";
+    var translations = word_class == "全単語" ? "<td class=\"meaning\">" + word.translations.map(function (t) { return t.forms.join(", "); }).join("；") + "</td>" : "<td class=\"meaning\">" + word.translations.filter(function (t) { return t.title == word_class; }).map(function (t) { return t.forms.join(", "); }).join("、") + "</td>";
     return translations == '<td class="meaning"></td>' ? "" : "<tr>" + word_form + translations + "</tr>";
 };
 var word_count = function (word_class_id) {
