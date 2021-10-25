@@ -1,10 +1,16 @@
 # taftarl
 タフターについてのレポジトリ。github.ioから分離
-- [タフター・ポータル](http://schwert398.github.io/taftarl/taftarl_portal)
-- [タフタット語](http://schwert398.github.io/taftarl/lang/taftat_lang)
-- [塔和辞書](http://schwert398.github.io/taftarl/lang/dict)
-  - [塔和辞書(jsonファイル)](https://raw.githubusercontent.com/schwert398/taftarl/main/lang/dict.json)
-- [単語帳](http://schwert398.github.io/taftarl/lang/wordlist)
-- [塔語ログ](http://schwert398.github.io/taftarl/lang/log)
-- [タフターの生物](http://schwert398.github.io/taftarl/taftat_creature)
-- [タフターの料理](http://schwert398.github.io/taftarl/taftat_food)
+- [タフター・ポータル](./taftarl_portal)
+
+## 言語
+- [タフタット語](./taftarl/lang/taftat_lang)
+- [塔和辞書](./taftarl/lang/dict)
+  - [塔和辞書(jsonファイル)](https://raw.githubusercontent.com/meloviliju/taftarl/main/lang/dict.json)
+- [単語帳](./taftarl/lang/wordlist)
+- [塔語ログ](./taftarl/lang/log)
+
+## 各論
+- [タフターの生物](./taftarl/taftat_creature)
+- [タフターの料理](./taftarl/taftat_food)
+- [タフターの暦](./taftarl/taftat_calendar)
+- [暦変換器](./taftarl/taftarl_to_phil)
