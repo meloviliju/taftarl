@@ -9,7 +9,7 @@
     <script>const op = (elementID) => document.getElementById(elementID + "_summary").parentNode.open = true;</script>
     <style>
         th {width: auto;}
-        td {display: inline;}
+        .meaning {width: auto; text-align: left;}
     </style>
 </head>
 <body onload="fetch('https:/'+'/meloviliju.github.io/taftarl/lang/dict.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){render_for_list(dictionnaire)})">
