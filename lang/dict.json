@@ -206,10 +206,13 @@
         },
         "translations" : [ {
             "title" : "名詞",
-            "forms" : [ "何" ]
+            "forms" : [ "何", "どこ", "誰", "なぜ", "どのように" ]
         } ],
         "tags" : [ ],
         "contents" : [ {
+            "title" : "用法", 
+            "text" : "不定の物事全般を指すが、基本的には「何」「どこ」の意味で用いられることが多い。"
+        }, {
             "title" : "同根語", 
             "text" : "rar.gha"
         } ],
@@ -279,6 +282,9 @@
         "contents" : [ {
             "title" : "文化", 
             "text" : "ラッビヤ語でラッビヤ(ghabiyar)といえばラッビヤ人やそのコミュニティを指すが、タフタット語ではラッビヤ人たちの住む地域を指す。"
+        }, {
+            "title" : "例文", 
+            "text" : "rarlgum fyt nirlnan rhabiyarlt joshma?　あのラッビヤ人はどこへ行くのですか？"
         }, {
             "title" : "用法", 
             "text" : "ラッビヤ語からの借用。"
@@ -490,7 +496,7 @@
         "tags" : [ ],
         "contents" : [ {
             "title" : "用法", 
-            "text" : "「大地から引き抜く」が本義。タフターニが農耕を行うようになり意味が分化した。"
+            "text" : "「大地から引き抜く」が本義。タフターニが農耕を行うようになり意味が派生した。"
         } ],
         "variations" : [ ],
         "relations" : [ ]
@@ -673,7 +679,70 @@
             "title": "同根語",
             "entry": {
                 "id": 34,
-                "form": "rhar"
+                "form": "rharl"
+            }
+        } ]
+    }, {
+        "entry" : {
+            "id" : 36,
+            "form" : "rast"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "どこの", "どの", "誰の" ]
+        }, {
+            "title" : "活用",
+            "forms" : [ "- / rast / -" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "rast synicarlgul joshda?　(きみは)どこの学校に行く？"
+        }, {
+            "title" : "語源",
+            "text" :"[< rarls + -t ]"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 37,
+            "form" : "rasnirl"
+        },
+        "translations" : [ {
+            "title" : "名詞",
+            "forms" : [ "誰" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "例文", 
+            "text" : "rasnirls fijurlnan rhoshma?　子供がいるのは誰？"
+        }, {
+            "title" : "語源",
+            "text" :"[< rast + nirl ]"
+        } ],
+        "variations" : [ ],
+        "relations" : [ ]
+    }, {
+        "entry" : {
+            "id" : 38,
+            "form" : "gytk"
+        },
+        "translations" : [ {
+            "title" : "形容詞",
+            "forms" : [ "〈処〉なしに", "〈処 を〉使わないで" ]
+        } ],
+        "tags" : [ ],
+        "contents" : [ {
+            "title" : "語源",
+            "text" :"[< gyt + -k ]"
+        } ],
+        "variations" : [ ],
+        "relations" : [ {
+            "title": "対義語",
+            "entry": {
+                "id": 33,
+                "form": "gyt"
             }
         } ]
     } ]
